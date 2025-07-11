@@ -1,0 +1,39 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #9fcf6b;
+  border: 4px solid #ffec59;
+  
+}
+p1{
+  font-size: 120%;
+  color: blue;
+  font-family: Courier;
+p2{
+  font-size: 100%;
+  color: Black;
+  font-family: ;
+}
+}
+a{
+  font-size: 70%;
+  color: red;
+  font-style: italic;
+}
+.Joram{
+  position: absolute;
+  left: 0%;
+}
+.Joram-Container{
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+}
+.Account{
+  display: flex;
+  flex-direction: column;
+}
